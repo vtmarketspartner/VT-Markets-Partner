@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Be.Global ñ ‘—Ìﬂ VT Markets ›Ì «· ”ÊÌﬁ «·—ﬁ„Ì. «»œ√ —Õ· ﬂ ›Ì ⁄«·„ «· œ«Ê· „⁄ VT Markets „‰ Œ·«· »Ì∆… ¬„‰… ·· ÿÊ— Ê«·‰„Ê.">
+  <title>Be.Global | ‘—Ìﬂ VT Markets</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+    }
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 12px;
+    }
+    h1, h2 {
+      color: #003366; /* √“—ﬁ „·ﬂÌ */
+    }
+    p, li {
+      line-height: 1.8;
+      color: #003366; /* √“—ﬁ „·ﬂÌ */
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 10px 0;
+    }
+    a {
+      color: #0055a5; /* √“—ﬁ ›« Õ ··—Ê«»ÿ */
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #ccc;
+      margin: 20px 0;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Be.Global ñ ‘—Ìﬂ VT Markets ›Ì «· ”ÊÌﬁ «·—ﬁ„Ì</h1>
+    <p>«»œ√ —Õ· ﬂ ›Ì ⁄«·„ «· œ«Ê· „⁄ VT Markets „‰ Œ·«·  √„Ì‰ »Ì∆… ¬„‰… ··‰„Ê Ê«· ÿÊ—° ⁄»— ‘—«ﬂ ‰« «· ”ÊÌﬁÌ… «· Ì  Âœ› ≈·Ï ≈Ì’«· Œœ„«  «· œ«Ê· «·«Õ —«›Ì… ·√ﬂ»— ‘—ÌÕ… „‰ «·„ œ«Ê·Ì‰.</p>
+
+    <hr />
+
+    <h2>⁄‰ VT Markets:</h2>
+    <p>VT Markets ÂÌ ‘—ﬂ… Ê”«ÿ… „«·Ì… ⁄«·„Ì… „—Œ’…  ﬁœ„ Œœ„«   œ«Ê· «·›Ê—ﬂ” Ê«·⁄ﬁÊœ „ﬁ«»· «·›—Êﬁ«  (CFDs) ⁄»— „‰’«  „ ﬁœ„…° „⁄  ‰›Ì– ”—Ì⁄ Ê√œÊ«   Õ·Ì· «Õ —«›Ì…° ·œ⁄„ «·„ œ«Ê·Ì‰ „‰ Ã„Ì⁄ «·„” ÊÌ« .</p>
+
+    <hr />
+
+    <h2>„⁄·Ê„«  «· Ê«’·:</h2>
+    <ul>
+      <li>?? «·»—Ìœ «·≈·ﬂ —Ê‰Ì: <a href="mailto:Belal.alshikh.mh@gmail.com">Belal.alshikh.mh@gmail.com</a></li>
+      <li>?? «·Â« ›: <a href="tel:+971585885506">+971585885506</a></li>
+      <li>?? —«»ÿ «·≈Õ«·…: <a href="https://vtm.pro/36Rjau" target="_blank">https://vtm.pro/36Rjau</a></li>
+    </ul>
+
+    <hr />
+
+    <h2>”Ì«”… «·Œ’Ê’Ì…:</h2>
+    <p>”Ì „ ≈÷«›… —«»ÿ ”Ì«”… «·Œ’Ê’Ì… Â‰« ·«Õﬁ« Õ”» „ ÿ·»«  «·„‰’….</p>
+
+    <footer>
+      © 2025 Be.Global ñ Ã„Ì⁄ «·ÕﬁÊﬁ „Õ›ÊŸ….
+    </footer>
+  </div>
+</body>
+</html>
